@@ -9,7 +9,7 @@ const NAV_APIS = [
   
 
 
-  {"name":"在线应用商店","url":"https://ai2629.neocities.org/nz/app.json"}];
+  {"name":"V","url":"https://gh-proxy.com/ai2629/01json/raw/main/v.json"}];
 const NAV_RESOURCES = [
   {"title":"百度一下","desc":"全球最大的中文搜索引擎、致力于让网民更便捷地获取信息,找到所求","url":"https://www.baidu.com","icon":"https://www.baidu.com/favicon.ico"},
   {"title":"GitHub","desc":"全球最大的代码托管与开发者协作平台","url":"https://github.com/","icon":"https://github.com/favicon.ico"},

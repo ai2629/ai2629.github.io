@@ -15,10 +15,10 @@ const NAV_RESOURCES = [
   {"title":"GitHub","desc":"全球最大的代码托管与开发者协作平台","url":"https://github.com/","icon":"https://github.com/favicon.ico"},
   {"title":"蓝奏云","desc":"真正的云加速下载，对下载不做任何限制。","url":"https://accounts.woozooo.com/accounts.php?action=login&ref=up.woozooo.com","icon":"https://up.woozooo.com/favicon.ico"},
   {"title":"Gitee","desc":"中国境内规模最大的代码托管平台","url":"https://gitee.com/","icon":"https://gitee.com/favicon.ico"},
-  {"title":"ai2629[APP]","desc":"自制APP","url":"https://gh-proxy.com/github.com/ai2629/01app/raw/main/ai2629.apk","icon":"https://ai2629.neocities.org/img/fm.png"},
+  {"title":"ai2629[APP]","desc":"自制APP","url":"https://gh-proxy.com/github.com/ai2629/01app/raw/main/ai2629.apk","icon":"./img/fm.png"},
 
   
-  {"title":"音乐下载","desc":"网页下载音乐","url":"./music/index.html","icon":"https://ai2629.neocities.org/img/pic.png"}
+  {"title":"音乐下载","desc":"网页下载音乐","url":"./music/index.html","icon":"./img/pic.png"}
 
   ];
 

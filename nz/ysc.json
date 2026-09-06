@@ -1,0 +1,12 @@
+{"urls": [
+          {"name": "app", "url": "https://ai2629.neocities.org/nz/app.json"},
+          {"name": "短剧", "url": "clan://localhost/Download/dj/dj.json"},
+          {"name": "小虎斑", "url": "http://hb.小虎斑.site:25252/仅供测试/"},
+          {"name": "rihou", "url": "http://rihou.cc:88/demoabc.json"},
+          {"name": "嗷呜", "url": "http://itv666.cc/aowu/config.webp"},
+          {"name": "王二小", "url": "http://tvbox.王二小放牛娃.top/"},
+          {"name": "酷佬", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg"},
+          {"name": "小米", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json"}, 
+          {"name": "app", "url": "clan://localhost/nz/app.json"}
+        ]
+}

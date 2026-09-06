@@ -1,0 +1,62 @@
+
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Ai2629主页">
+  <title>Ai2629主页</title>
+  <link rel="icon" href="./img/pic.png" sizes="any">
+  <!-- <link rel="preconnect" href="https://fonts.googleapis.com"> -->
+  <link rel="stylesheet" href="./css/styles.css">
+</head>
+<body>
+  <canvas class="meteor-canvas" id="meteorCanvas" aria-hidden="true"></canvas>
+
+  <main class="page-shell">
+    <section class="hero" aria-labelledby="site-title">
+      <div class="hero__content">
+        <h1 id="site-title">Ai2629</h1>
+        <p class="hero__slogan" id="dailySaying">澹泊明志·宁静致远</p>
+      </div>
+      <img class="hero__logo" src="./img/pic.png" alt="Ai2629 logo">
+    </section>
+
+    <section class="panel" aria-labelledby="resource-title">
+      <div class="section-head">
+        <div>
+          <p class="section-kicker">常用入口</p>
+          <h2 id="resource-title">免费资源推荐</h2>
+        </div>
+        <span class="section-count">精选导航</span>
+      </div>
+      <div class="resource-grid" id="resourceGrid"></div>
+    </section>
+
+
+
+    <section class="panel" aria-labelledby="api-title">
+      <div class="section-head">
+        <div>
+          <p class="section-kicker">点击即可复制</p>
+          <h2 id="api-title">空壳接口</h2>
+        </div>
+        <span class="section-count" id="apiCount"></span>
+      </div>
+      <div class="api-grid" id="apiGrid"></div>
+    </section>
+
+
+
+  </main>
+
+  <div class="toast" id="toast" role="status" aria-live="polite">已复制</div>
+
+  <footer class="site-footer">
+    <p>© <span id="currentYear"></span> Ai2629</p>
+  </footer>
+  <script src="./css/1.json"></script>
+
+
+</body>
+</html>

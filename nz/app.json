@@ -7,6 +7,8 @@
         {"key":"csp_Douban","name":"豆瓣┃[Ai2629]","type":3,"api":"csp_Douban","searchable":0,"changeable":1,"indexs":1,"ext":"./set/douban.json"},
         {"key":"csp_AiWanMusic","name":"音乐┃[内置]","type":3,"api":"csp_AiWanMusic","searchable":1,"changeable":0},
         {"key":"ZF_商店","name":"商店┃[更新]","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://gh-proxy.com/github.com/ai2629/01json/raw/main/商店.json"},
+        {"key":"ZF_APP下载","name":"APP下载┃[更新]","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"https://ai2629.github.io/set/APP下载.json"},
+ 
         {"key":"ZF_push_agent","name":"链接┃推送","type":3,"api":"csp_Push","searchable":0,"changeable":0,"hide":1,"timeout":60}
     ] 
 }

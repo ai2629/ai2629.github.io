@@ -10,6 +10,6 @@
           {"name": "潇洒", "url": "https://qist.ugigc.dpdns.org/xiaosa/api.json"},
           {"name": "肥猫", "url": "https://jk.catvod.site/"},
           {"name": "饭太硬", "url": "http://www.饭太硬.art/tv"},
-          {"name": "内置商店", "url": "file://Download/nz/app.json"}
+          {"name": "内置商店", "url": "assets://nz/1.json"}
         ]
 }

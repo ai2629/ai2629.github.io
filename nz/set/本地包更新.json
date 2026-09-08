@@ -9,7 +9,7 @@
     {
         "name": "本地包1",
         "list": [
-            {"name":"说明","url":"https://github.com/ai2629/01zip/raw/main/nz/README.txt","icon":"https://gh-proxy.com/https://github.com/ai2629/01img/raw/main/logo/说明.jpg","copy":"","version":"README"}
+            {"name":"短剧","url":"https://gh-proxy.com/github.com/ai2629/01zip/raw/main/nz/dj.zip","icon":"https://gh-proxy.com/github.com/ai2629/01img/raw/main/logo/logo.png","version":"短剧包"},
         ]
     }, 
 

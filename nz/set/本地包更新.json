@@ -1,0 +1,34 @@
+[
+    {
+        "name": "说明",
+        "list": [
+            {"name":"说明","url":"https://github.com/ai2629/01zip/raw/main/nz/README.txt","icon":"https://gh-proxy.com/https://github.com/ai2629/01img/raw/main/logo/说明.jpg","copy":"","version":"README"}
+        ]
+    }, 
+
+    {
+        "name": "本地包1",
+        "list": [
+            {"name":"说明","url":"https://github.com/ai2629/01zip/raw/main/nz/README.txt","icon":"https://gh-proxy.com/https://github.com/ai2629/01img/raw/main/logo/说明.jpg","copy":"","version":"README"}
+        ]
+    }, 
+
+
+
+
+    {
+        "name": "本地包2",
+        "list": [
+            {"name":"001","url":"https://github.com/ai2629/01zip/raw/main/nz/001.zip","icon":"https://gh-proxy.com/https://github.com/ai2629/01img/raw/main/logo/logo.png","version":"001"},
+            {"name":"002","url":"https://github.com/ai2629/01zip/raw/main/nz/002.zip","icon":"https://gh-proxy.com/https://github.com/ai2629/01img/raw/main/logo/logo.png","version":"002"},
+            {"name":"003","url":"https://github.com/ai2629/01zip/raw/main/nz/003.zip","icon":"https://gh-proxy.com/https://github.com/ai2629/01img/raw/main/logo/logo.png","version":"003"},
+            {"name":"004","url":"https://github.com/ai2629/01zip/raw/main/nz/004.zip","icon":"https://gh-proxy.com/https://github.com/ai2629/01img/raw/main/logo/logo.png","version":"004"},
+            {"name":"005","url":"https://github.com/ai2629/01zip/raw/main/nz/005.zip","icon":"https://gh-proxy.com/https://github.com/ai2629/01img/raw/main/logo/logo.png","version":"005"},
+            {"name":"006","url":"https://github.com/ai2629/01zip/raw/main/nz/006.zip","icon":"https://gh-proxy.com/https://github.com/ai2629/01img/raw/main/logo/logo.png","version":"006"},
+            {"name":"007","url":"https://github.com/ai2629/01zip/raw/main/nz/007.zip","icon":"https://gh-proxy.com/https://github.com/ai2629/01img/raw/main/logo/logo.png","version":"007"},
+            {"name":"008","url":"https://github.com/ai2629/01zip/raw/main/nz/008.zip","icon":"https://gh-proxy.com/https://github.com/ai2629/01img/raw/main/logo/logo.png","version":"008"},
+            {"name":"009","url":"https://github.com/ai2629/01zip/raw/main/nz/009.zip","icon":"https://gh-proxy.com/https://github.com/ai2629/01img/raw/main/logo/logo.png","version":"009包"},
+            {"name":"说明","url":"https://github.com/ai2629/01zip/raw/main/nz/README.txt","icon":"https://gh-proxy.com/https://github.com/ai2629/01img/raw/main/logo/说明.jpg","copy":"","version":"README"}
+        ]
+    }
+]

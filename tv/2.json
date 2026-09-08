@@ -1,0 +1,323 @@
+{
+
+    
+    "spider": "https://gitee.com/zfnote/000jar/raw/master/yu.jar;md5;282aee405654188f1bc1822bbf137410",
+    // "spider": "./jar/yu.jar;md5;282aee405654188f1bc1822bbf137410",
+    "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
+    "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
+    "sites": [
+
+      {
+        "key": "Douban",
+        "name": "🌕️┆片单┆精选",
+        "type": 3,
+        "api": "csp_PianDan",
+        "searchable": 1,
+        "indexs": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": {
+          "home": {
+            "douban": "./set/douban.json",
+            "tmdb": "./set/tmdb.json"
+          }
+        }
+      },
+
+      {
+        "key": "FishConfig",
+        "name": "🍼┆设置┆中心",
+        "type": 3,
+        "api": "csp_FishConfig"
+      },
+      {
+        "key": "Local",
+        "name": "📁┆文件┆浏览",
+        "type": 3,
+        "api": "csp_Local",
+        "searchable": 0,
+        "changeable": 0,
+        "indexs": 0,
+        "style": {
+          "type": "list"
+        },
+        "ext": "./set/share.json"
+      },
+      {
+        "key": "Music24bit",
+        "name": "🎼┆无损┆音乐",
+        "type": 3,
+        "api": "csp_Music24bit",
+        "searchable": 1,
+        "changeable": 1,
+        "ext": {
+          "categories": [
+            "落日微醺",
+            "周杰伦",
+            "陶喆",
+            "大头针",
+            "张惠妹",
+            "孙燕姿"
+          ]
+        }
+      },
+
+
+
+
+
+
+
+      {
+        "name": "🎉┆笔璃┆歌曲",
+        "key": "BiliGequ",
+        "type": 3,
+        "api": "csp_Bili",
+        "searchable": 0,
+        "quickSearch": 0,
+        "changeable": 0,
+        "ext": {
+          "json": "https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt"
+        },
+        "style": {
+          "type": "rect",
+          "ratio": 1.433
+        }
+      },
+
+
+
+
+
+      {
+        "key": "Market",
+        "name": "🛒┆网盘┆市场",
+        "type": 3,
+        "api": "csp_Market",
+        "searchable": 0,
+        "indexs": 0,
+        "style": {
+          "type": "list"
+        },
+        "ext": {
+          "categories": [
+            {
+              "name": "ai2629",
+              "url": "https://pan.quark.cn/s/15816536e4e0"
+            },
+
+            
+            {
+              "name": "潇洒资源一",
+              "url": "https://pan.quark.cn/s/969cc97687d3"
+            },
+            {
+              "name": "潇洒资源二",
+              "url": "https://drive.uc.cn/s/ba531661b3eb4"
+            },
+            {
+              "name": "奇奇更新一",
+              "url": "https://pan.quark.cn/s/ab00f85da8ea"
+            },
+
+
+
+            {
+              "name": "奇奇更新二",
+              "url": "https://drive.uc.cn/s/ef22fcbfdd934"
+            }
+          ]
+        }
+      },
+
+
+
+
+
+
+
+
+      {
+        "key": "push_agent",
+        "name": "💌┆推送┆接收",
+        "type": 3,
+        "api": "csp_Push",
+        "searchable": 0,
+        "changeable": 0,
+        "indexs": 0,
+        "timeout": 60
+      }
+    ],
+    "lives": [
+      {
+        "name": "superiptv",
+        "type": 0,
+        "url": "http://127.0.0.1:5266/iptv.m3u",
+        "playerType": 2
+      }
+    ],
+    "parses": [],
+    "flags": [],
+    "ijk": [
+      {
+        "group": "软解码",
+        "options": [
+          {
+            "category": 4,
+            "name": "opensles",
+            "value": "0"
+          },
+          {
+            "category": 4,
+            "name": "overlay-format",
+            "value": "842225234"
+          },
+          {
+            "category": 4,
+            "name": "framedrop",
+            "value": "1"
+          },
+          {
+            "category": 4,
+            "name": "soundtouch",
+            "value": "1"
+          },
+          {
+            "category": 4,
+            "name": "start-on-prepared",
+            "value": "1"
+          },
+          {
+            "category": 1,
+            "name": "http-detect-range-support",
+            "value": "0"
+          },
+          {
+            "category": 1,
+            "name": "fflags",
+            "value": "fastseek"
+          },
+          {
+            "category": 2,
+            "name": "skip_loop_filter",
+            "value": "48"
+          },
+          {
+            "category": 4,
+            "name": "reconnect",
+            "value": "1"
+          },
+          {
+            "category": 4,
+            "name": "enable-accurate-seek",
+            "value": "0"
+          },
+          {
+            "category": 4,
+            "name": "mediacodec",
+            "value": "0"
+          },
+          {
+            "category": 4,
+            "name": "mediacodec-auto-rotate",
+            "value": "0"
+          },
+          {
+            "category": 4,
+            "name": "mediacodec-handle-resolution-change",
+            "value": "0"
+          },
+          {
+            "category": 4,
+            "name": "mediacodec-hevc",
+            "value": "0"
+          },
+          {
+            "category": 1,
+            "name": "dns_cache_timeout",
+            "value": "600000000"
+          }
+        ]
+      },
+      {
+        "group": "硬解码",
+        "options": [
+          {
+            "category": 4,
+            "name": "opensles",
+            "value": "0"
+          },
+          {
+            "category": 4,
+            "name": "overlay-format",
+            "value": "842225234"
+          },
+          {
+            "category": 4,
+            "name": "framedrop",
+            "value": "1"
+          },
+          {
+            "category": 4,
+            "name": "soundtouch",
+            "value": "1"
+          },
+          {
+            "category": 4,
+            "name": "start-on-prepared",
+            "value": "1"
+          },
+          {
+            "category": 1,
+            "name": "http-detect-range-support",
+            "value": "0"
+          },
+          {
+            "category": 1,
+            "name": "fflags",
+            "value": "fastseek"
+          },
+          {
+            "category": 2,
+            "name": "skip_loop_filter",
+            "value": "48"
+          },
+          {
+            "category": 4,
+            "name": "reconnect",
+            "value": "1"
+          },
+          {
+            "category": 4,
+            "name": "enable-accurate-seek",
+            "value": "0"
+          },
+          {
+            "category": 4,
+            "name": "mediacodec",
+            "value": "1"
+          },
+          {
+            "category": 4,
+            "name": "mediacodec-auto-rotate",
+            "value": "1"
+          },
+          {
+            "category": 4,
+            "name": "mediacodec-handle-resolution-change",
+            "value": "1"
+          },
+          {
+            "category": 4,
+            "name": "mediacodec-hevc",
+            "value": "1"
+          },
+          {
+            "category": 1,
+            "name": "dns_cache_timeout",
+            "value": "600000000"
+          }
+        ]
+      }
+    ]
+  }

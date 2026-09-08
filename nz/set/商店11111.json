@@ -1,0 +1,35 @@
+[
+    {
+        "name": "说明",
+        "list": [
+            {"name":"说明","url":"https://gh-proxy.com/github.com/ai2629/01nz/raw/main/README.txt","icon":"https://gh-proxy.com/github.com/ai2629/01img/raw/main/logo/说明.jpg","copy":"","version":"README"}
+
+        ]
+    },
+    {
+        "name": "应用下载",
+        "list": [
+            {"name":"ClashMeta","url":"https://lz0.qaiu.top/parser?url=https://wwaqx.lanzoum.com/iayS545h0o3e&pwd=1230","icon":"https://gh-proxy.com/github.com/ai2629/01img/raw/main/appimg/ClashMeta.png","copy":"","version":"README"},
+            {"name":"APK编辑器","url":"https://lz0.qaiu.top/parser?url=https://wwaqx.lanzoum.com/iQ47z45h0atg&pwd=1230","icon":"https://gh-proxy.com/github.com/ai2629/01img/raw/main/appimg/APK编辑器.png","copy":"","version":"README"},
+            {"name":"1DM","url":"https://lz0.qaiu.top/parser?url=https://wwaqx.lanzoum.com/iWJdG45h0bsb&pwd=1230","icon":"https://gh-proxy.com/github.com/ai2629/01img/raw/main/appimg/1DM.png","copy":"","version":"README"},
+            {"name":"MT管理器","url":"https://lz0.qaiu.top/parser?url=https://wwaqx.lanzoum.com/icgLl45h0lud&pwd=1230","icon":"https://gh-proxy.com/github.com/ai2629/01img/raw/main/appimg/MT管理器.png","copy":"","version":"README"},
+            {"name":"黄鸟抓包","url":"https://lz0.qaiu.top/parser?url=https://wwaqx.lanzoum.com/iXkNH45h0sxi&pwd=1230","icon":"https://gh-proxy.com/github.com/ai2629/01img/raw/main/appimg/黄鸟抓包.png","copy":"","version":"README"},
+            {"name":"musicfree","url":"https://lz0.qaiu.top/parser?url=https://wwaqx.lanzoum.com/iayS545h0o3e&pwd=1230","icon":"https://gh-proxy.com/github.com/ai2629/01img/raw/main/appimg/musicfree.png","copy":"","version":"README"},
+            {"name":"阅读Z","url":"https://lz0.qaiu.top/parser?url=https://wwaqx.lanzoum.com/ihBvP45h062f&pwd=1230","icon":"https://gh-proxy.com/github.com/ai2629/01img/raw/main/appimg/阅读.png","copy":"","version":"README"},
+            {"name":"海阔视界","url":"https://lz0.qaiu.top/parser?url=https://wwaqx.lanzoum.com/i8EaD45h0r9i&pwd=1230","icon":"https://gh-proxy.com/github.com/ai2629/01img/raw/main/appimg/海阔视界.png","copy":"","version":"README"},
+
+            
+            
+            {"name":"ClashMeta","url":"https://gh-proxy.com/github.com/ai2629/01app/raw/main/ClashMeta.apk","icon":"https://gh-proxy.com/github.com/ai2629/01img/raw/main/appimg/ClashMeta.png","copy":"","version":"README"}
+        ]
+    },
+    {
+        "name": "本地包",
+        "list": [
+            {"name":"短剧","url":"https://gh-proxy.com/github.com/ai2629/01zip/raw/main/nz/dj.zip","icon":"https://gh-proxy.com/github.com/ai2629/01img/raw/main/logo/logo.png","version":"短剧包"},
+            {"name":"vox本地包","url":"http://jiduo.rihou.cc:6250/jiduo.php/vox本地包.zip","icon":"http://jiduo.rihou.cc:6250/jiduo.php/23.jpg","copy":"","version":"最新本地包"},
+     
+            {"name":"说明","url":"https://gh-proxy.com/github.com/ai2629/01zip/raw/main/README.txt","icon":"https://gh-proxy.com/github.com/ai2629/01img/raw/main/logo/说明.jpg","copy":"","version":"README"}
+        ]
+    }
+]

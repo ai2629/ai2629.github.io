@@ -100,17 +100,17 @@
 
 
 //csp_XBPQ
-{"key":"养生堂","name":"🧿养生｜知识","type":3,"api":"csp_XBPQ","ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/XBPQ/养生堂.json","style":{"type":"rect","ratio":1.597}},
-{"key":"农民","name":"🧿农民｜影视","type":3,"api":"csp_XBPQ","ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://vip.wwgz.cn:5200/"}},
-{"key":"面包影视","name":"🧿面包｜影视","type":3,"api":"csp_XBPQ","ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://v.aiwule.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html","分类":"电影$20#电视剧$21#动漫$23#综艺$22#短剧$47","简介":"简介：&&"}},
-{"key":"VIP","name":"🧿VIP｜影视","type":3,"api":"csp_XBPQ","ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://www.vipdy.vip/"}},
-{"key":"永乐","name":"🧿永乐｜影视","type":3,"api":"csp_XBPQ","ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://www.ylys.tv/"}},
-{"key":"先生","name":"🧿先生｜影视","type":3,"api":"csp_XBPQ","ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://silidm.com/"}},
-{"key":"啊哈DJ网","name":"🧿啊哈｜DJ","type":3,"api":"csp_XBPQ","ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/XBPQ/啊哈DJ.json"},
+{"key":"养生堂","name":"🧿养生｜知识","type":3,"api":"csp_XBPQ","ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/XBPQ/养生堂.json","style":{"type":"rect","ratio":1.597},"jar":"https://gitee.com/zfnote/000jar/raw/master/xyq.jar"},
+{"key":"农民","name":"🧿农民｜影视","type":3,"api":"csp_XBPQ","ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://vip.wwgz.cn:5200/"},"jar":"https://gitee.com/zfnote/000jar/raw/master/xyq.jar"},
+{"key":"面包影视","name":"🧿面包｜影视","type":3,"api":"csp_XBPQ","ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://v.aiwule.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html","分类":"电影$20#电视剧$21#动漫$23#综艺$22#短剧$47","简介":"简介：&&"},"jar":"https://gitee.com/zfnote/000jar/raw/master/xyq.jar"},
+{"key":"VIP","name":"🧿VIP｜影视","type":3,"api":"csp_XBPQ","ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://www.vipdy.vip/"},"jar":"https://gitee.com/zfnote/000jar/raw/master/xyq.jar"},
+{"key":"永乐","name":"🧿永乐｜影视","type":3,"api":"csp_XBPQ","ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://www.ylys.tv/"},"jar":"https://gitee.com/zfnote/000jar/raw/master/xyq.jar"},
+{"key":"先生","name":"🧿先生｜影视","type":3,"api":"csp_XBPQ","ext":{"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://silidm.com/"},"jar":"https://gitee.com/zfnote/000jar/raw/master/xyq.jar"},
+{"key":"啊哈DJ网","name":"🧿啊哈｜DJ","type":3,"api":"csp_XBPQ","ext":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/XBPQ/啊哈DJ.json","jar":"https://gitee.com/zfnote/000jar/raw/master/xyq.jar"},
 
 
 
-// "jar":"https://ncstatic-file.clewm.net/rsrc/2026/0307/11/98d51d4d95c5cf1b67e74af45cc4445f.jpg;md5;4d860d06ec233dbcb891b76055f099d5",
+// ,"jar":"https://gitee.com/zfnote/000jar/raw/master/xyq.jar"
 
 
 {"key":"急救教学","name":"🚑急救｜教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8},"gridview":"0-0-4.1"},
